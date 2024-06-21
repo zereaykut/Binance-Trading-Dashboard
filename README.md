@@ -3,7 +3,7 @@ A Streamlit dashboard that uses Binance API data
 
 ## Run Dashboard
 Clone the repo
-```console
+```shell
 git clone https://github.com/zereaykut/binance_trading_dashboard
 cd binance_trading_dashboard
 ```
@@ -14,17 +14,17 @@ python -m venv env
 ```
 
 Activate environment in Mac/Linux 
-```console
+```shell
 source env/bin/activate
 ```
 
 Activate environment in Windows 
-```console
+```shell
 env\Scripts\activate
 ```
 
 Install required packages
-```console
+```shell
 pip install -r requirements.txt
 ```
 
@@ -37,11 +37,11 @@ Add your binance info to config.json
 ```
 
 Get dashboard data
-```console
+```shell
 python binance_crypto_data.py
 ```
 
 Run dashboard
-```console
+```shell
 streamlit run binance_crypto_dashboard.py
 ```
