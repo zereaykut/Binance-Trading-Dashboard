@@ -20,7 +20,7 @@ source env/bin/activate
 
 Activate environment in Windows 
 ```shell
-env\Scripts\activate
+.\env\Scripts\activate
 ```
 
 Install required packages
