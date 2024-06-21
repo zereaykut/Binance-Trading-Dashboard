@@ -32,7 +32,7 @@ Add your binance info to config.json
 ```json
 {
   "API_KEY": "your_binance_api_key",
-	"SECRET_KEY": "your_binance_api_secret_key"
+  "SECRET_KEY": "your_binance_api_secret_key"
 }
 ```
 
