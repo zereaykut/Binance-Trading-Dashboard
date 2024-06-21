@@ -5,7 +5,7 @@ A Streamlit dashboard that uses Binance API data
 Clone the repo
 ```console
 foo@bar:~$ git clone https://github.com/zereaykut/binance_trading_dashboard
-foo@bar:~$ cd KUPST_dashboard
+foo@bar:~$ cd binance_trading_dashboard
 ```
 
 Create python environment
