@@ -43,5 +43,5 @@ foo@bar:~$ python binance_crypto_data.py
 
 Run dashboard
 ```console
-foo@bar:~$ streamlit run app.py
+foo@bar:~$ streamlit run binance_crypto_dashboard.py
 ```
