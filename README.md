@@ -31,8 +31,8 @@ pip install -r requirements.txt
 Add your binance info to config.json
 ```json
 {
-  "API_KEY": "your_binance_api_key",
-  "SECRET_KEY": "your_binance_api_secret_key"
+  "API_KEY": "Binance API Key",
+  "SECRET_KEY": "Binance API Secret Key"
 }
 ```
 
