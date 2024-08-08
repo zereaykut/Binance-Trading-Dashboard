@@ -1,11 +1,11 @@
-# binance_trading_dashboard
+# Binance-Trading-Dashboard
 A Streamlit dashboard that uses Binance API data
 
 ## Run Dashboard
 Clone the repo
 ```shell
-git clone https://github.com/zereaykut/binance_trading_dashboard
-cd binance_trading_dashboard
+git clone https://github.com/zereaykut/Binance-Trading-Dashboard
+cd Binance-Trading-Dashboard
 ```
 
 Create python environment
